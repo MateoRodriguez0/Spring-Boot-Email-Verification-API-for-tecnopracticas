@@ -2,10 +2,10 @@
 
 Api de mensajeria automatica para proyecto academico de practicas estudiantiles con mailSender a traves de Gmail.
 
-![Captura de pantalla 2023-11-12 162106](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/60b2914a-da7d-4648-8a4e-9baffb66c907)
+![Spring](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/211c1fe9-2acc-45ee-8d30-b9a007c395ca)
 
-![Captura de pantalla 2023-11-12 162141](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/54924feb-e6af-47d5-b346-d012a00669ec)
-
+![Captura de pantalla 2023-11-12 162744](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/59f64de4-9b15-4dec-90bf-20f01b0d4e70)
+![Captura de pantalla 2023-11-12 162831](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/953d7b43-596c-4cc1-9a89-087fb5598d94)
 
 ## aplication.yaml
 
