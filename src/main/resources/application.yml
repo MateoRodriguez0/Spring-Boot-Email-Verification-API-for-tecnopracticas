@@ -1,0 +1,17 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: practicastecologicocomfenalco@gmail.com
+    password: jqckrulxctshddgq
+    properties:
+      mail:
+       Smtp:
+        auth: true
+        starttls:
+          enable: true
+          
+  jackson:
+    time-zone: America/Bogota
+    
+    
