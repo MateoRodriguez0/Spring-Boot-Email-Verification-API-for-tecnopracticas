@@ -33,7 +33,7 @@ spring:
 ### Send email VerificationCode 
 
 ```http
- POST http://localhost:8080/mail/enviar
+ POST http://localhost:8080/mail/enviar?email=example@github.com
 ```
 
 | Parameter | Type     | Description                |
