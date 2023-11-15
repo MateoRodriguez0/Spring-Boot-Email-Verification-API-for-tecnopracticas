@@ -1,8 +1,11 @@
 # Spring-Boot-Email-Verification-API-GMAIL
 
-Api de mensajeria automatica para enviar codigo de verificación de registro de cuenta, autenticacion de codigo y envio de email automatico de cuenta creada via smtp gmail. 
+Api de mensajeria automatica para enviar:
+- codigo de verificación de registro de cuenta
+- autenticacion de codigo
+- envio de email automatico de cuenta creada via smtp gmail. 
 
-Util para un proyecto academico de practicas estudiantiles de una universidad.
+Creado para un proyecto academico de practicas estudiantiles de una universidad.
 
 ![Spring](https://github.com/MateoRodriguez0/Spring-Boot-Email-Verification-API-for-tecnopracticas/assets/107595139/211c1fe9-2acc-45ee-8d30-b9a007c395ca)
 
