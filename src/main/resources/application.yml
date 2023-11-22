@@ -2,11 +2,11 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: practicastecologicocomfenalco@gmail.com
-    password: jqckrulxctshddgq
+    username: practicastecnologicocomfenalco@gmail.com
+    password: bxsizyvdizjyzcxs
     properties:
       mail:
-       Smtp:
+       smtp:
         auth: true
         starttls:
           enable: true
@@ -14,4 +14,6 @@ spring:
   jackson:
     time-zone: America/Bogota
     
-    
+server:
+  port: 9050  
+
